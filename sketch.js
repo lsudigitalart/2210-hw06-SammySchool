@@ -92,7 +92,6 @@ function mousePressed() {
   imgPlaceX = mouseX;
   imgPlaceY = mouseY;
   pressed = true;
-  print("hi");
 }
 
 function getRandomPosition(maxBoundary, imageDimension) {
